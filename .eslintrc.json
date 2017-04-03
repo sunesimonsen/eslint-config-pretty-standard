@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "standard",
+    "standard-react",
+    "prettier",
+    "prettier/flowtype",
+    "prettier/react"
+  ],
+  "plugins": [
+    "standard",
+    "promise",
+    "flowtype"
+  ],
+  "rules": {
+    "standard/computed-property-even-spacing": ["error", "never"]
+  }
+}

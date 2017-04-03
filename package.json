@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-pretty-standard",
+  "version": "0.1.0",
+  "description": "A shareable eslint+prettier config based on standard",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["lint", "prettier", "standard", "eslint"],
+  "peerDependencies": {
+    "eslint": "^3.17.1"
+  },
+  "dependencies": {
+    "eslint-plugin-flowtype": "2.30.3",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-react": "6.10.0",
+    "eslint-plugin-standard": "2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1"
+  }
+}
