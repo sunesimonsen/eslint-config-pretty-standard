@@ -2,8 +2,9 @@
 
 A shareable eslint+prettier config based on standard.
 
-This eslint config contains all the standard rules that is not about code style. The
-idea is that you use this config together
+This eslint config contains all
+the [standard](https://github.com/feross/eslint-config-standard) rules that is
+not about code style. The idea is that you use this config together
 with [prettier](https://github.com/prettier/prettier).
 
 ## Usage
