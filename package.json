@@ -10,6 +10,11 @@
     "standard",
     "eslint"
   ],
+  "bugs": "https://github.com/sunesimonsen/eslint-config-pretty-standard/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunesimonsen/eslint-config-pretty-standard"
+  }
   "peerDependencies": {
     "eslint": "^3.17.1"
   },
