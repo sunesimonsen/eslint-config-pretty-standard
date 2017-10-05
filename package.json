@@ -16,7 +16,11 @@
     "url": "https://github.com/sunesimonsen/eslint-config-pretty-standard.git"
   },
   "peerDependencies": {
-    "eslint": "^3.17.1 || 4"
+    "eslint": "^3.17.1 || 4",
+    "eslint-plugin-flowtype": "2.30.3",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-react": "6.10.0",
+    "eslint-plugin-standard": "2.1.1"
   },
   "dependencies": {
     "eslint-plugin-flowtype": "2.30.3",
