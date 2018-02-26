@@ -79,15 +79,12 @@
     "setTimeout": false,
     "document": false,
     "navigator": false,
-    "window": false,
-    "describe": false,
-    "it": false,
-    "beforeEach": false,
-    "afterEach": false
+    "window": false
   },
   "env": {
     "es6": true,
-    "node": true
+    "node": true,
+    "mocha": true
   },
   "rules": {
     "accessor-pairs": "error",
