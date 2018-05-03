@@ -203,7 +203,8 @@
       "error",
       {
         "vars": "all",
-        "args": "none"
+        "args": "none",
+        "ignoreRestSiblings": true
       }
     ],
     "no-use-before-define": [
