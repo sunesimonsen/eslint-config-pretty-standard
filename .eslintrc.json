@@ -268,5 +268,5 @@
     },
     "sourceType": "module"
   },
-  "plugins": ["promise", "react", "flowtype"]
+  "plugins": ["promise", "react"]
 }

@@ -17,12 +17,10 @@
   },
   "peerDependencies": {
     "eslint": "^3.17.1 || 4",
-    "eslint-plugin-flowtype": "^2.42.0",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-react": "^7.6.1"
   },
   "dependencies": {
-    "eslint-plugin-flowtype": "2.42.0",
     "eslint-plugin-promise": "3.6.0",
     "eslint-plugin-react": "7.6.1"
   },
