@@ -16,7 +16,7 @@
     "url": "https://github.com/sunesimonsen/eslint-config-pretty-standard.git"
   },
   "peerDependencies": {
-    "eslint": "^3.17.1 || 4",
+    "eslint": "^5",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-react": "^7.6.1"
   },
