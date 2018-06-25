@@ -260,10 +260,9 @@
     "react/react-in-jsx-scope": "error"
   },
   "parserOptions": {
-    "ecmaVersion": 8,
+    "ecmaVersion": 9,
     "ecmaFeatures": {
       "globalReturn": true,
-      "experimentalObjectRestSpread": true,
       "jsx": true
     },
     "sourceType": "module"
