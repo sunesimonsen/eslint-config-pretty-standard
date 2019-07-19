@@ -266,5 +266,10 @@
     },
     "sourceType": "module"
   },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
   "plugins": ["promise", "react"]
 }
